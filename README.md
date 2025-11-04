@@ -189,7 +189,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapnil" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/swapnil-akash-singh-714542320/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvraaj" height="30" width="40" /></a>
-  <a href="https://instagram.com/" target="blank">
+  <a href="https://instagram.com/swapnilakashsingh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exaltedyuviieee" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Swapnilakash/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uvraaj" height="30" width="40" /></a>
